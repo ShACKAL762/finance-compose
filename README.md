@@ -9,3 +9,4 @@
 ```sh
 docker compose up --build -d
 ```
+Видео защиты по [ссылке](https://disk.yandex.ru/i/9PxWz7X0vrr7tg)
